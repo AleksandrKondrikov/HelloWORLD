@@ -1,0 +1,15 @@
+D:\_User\Desktop\Exam\Exam001_HEY\bin\Debug\net6.0\Exam001_HEY.exe
+D:\_User\Desktop\Exam\Exam001_HEY\bin\Debug\net6.0\Exam001_HEY.deps.json
+D:\_User\Desktop\Exam\Exam001_HEY\bin\Debug\net6.0\Exam001_HEY.runtimeconfig.json
+D:\_User\Desktop\Exam\Exam001_HEY\bin\Debug\net6.0\Exam001_HEY.dll
+D:\_User\Desktop\Exam\Exam001_HEY\bin\Debug\net6.0\Exam001_HEY.pdb
+D:\_User\Desktop\Exam\Exam001_HEY\obj\Debug\net6.0\Exam001_HEY.csproj.AssemblyReference.cache
+D:\_User\Desktop\Exam\Exam001_HEY\obj\Debug\net6.0\Exam001_HEY.GeneratedMSBuildEditorConfig.editorconfig
+D:\_User\Desktop\Exam\Exam001_HEY\obj\Debug\net6.0\Exam001_HEY.AssemblyInfoInputs.cache
+D:\_User\Desktop\Exam\Exam001_HEY\obj\Debug\net6.0\Exam001_HEY.AssemblyInfo.cs
+D:\_User\Desktop\Exam\Exam001_HEY\obj\Debug\net6.0\Exam001_HEY.csproj.CoreCompileInputs.cache
+D:\_User\Desktop\Exam\Exam001_HEY\obj\Debug\net6.0\Exam001_HEY.dll
+D:\_User\Desktop\Exam\Exam001_HEY\obj\Debug\net6.0\refint\Exam001_HEY.dll
+D:\_User\Desktop\Exam\Exam001_HEY\obj\Debug\net6.0\Exam001_HEY.pdb
+D:\_User\Desktop\Exam\Exam001_HEY\obj\Debug\net6.0\Exam001_HEY.genruntimeconfig.cache
+D:\_User\Desktop\Exam\Exam001_HEY\obj\Debug\net6.0\ref\Exam001_HEY.dll
